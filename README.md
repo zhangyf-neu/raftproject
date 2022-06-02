@@ -12,7 +12,8 @@ $ git clone git://g.csail.mit.edu/6.824-golabs-2021 6.824
 $ cd 6.824
 ```
 
-github不好用的同学可以直接用附带的压缩包6.824
+github不好用的同学可以直接用附带的[压缩包6.824](https://github.com/zhangyf-neu/raftproject/files/8819622/6.824.zip)
+
 
 ### Go
 
