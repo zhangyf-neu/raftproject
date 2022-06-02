@@ -3,7 +3,7 @@
 ## 作业要求
 1. 用Go或C++实现Raft共识协议，强烈建议花点时间自学Go语言（Go语言的RPC库比较好用），不想学的用C++实现也行。
 2. 本文档提供Go语言版本的实现过程参考，包括[环境配置](#环境配置)、[前置知识](#前置知识)、[GO语言入门](#Go)、[Raft实现](#Raft实现)
-3. Raft实现包括4个模块[Part2A: leader election](#Part2A)、[Part2B: log](#Part2B: log)、[Part2C: persistence](#Part2C: persistence)、[Part2D: log compaction(optional)](#Part2D: log compaction(optional))，最后这个是可选的任务
+3. Raft实现包括4个模块[Part2A: leader election](#part2a-leader-election)、[Part2B: log](#Part2B: log)、[Part2C: persistence](#Part2C: persistence)、[Part2D: log compaction(optional)](#Part2D: log compaction(optional))，最后这个是可选的任务
 4. 提交内容：a.源代码，b.实现细节报告（包括实现过程和关键步骤截图等），以上内容打包按照“学号-姓名.zip”命名
 5. 提交日期：6月19日24时
 6. 提交地址：待定
