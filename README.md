@@ -1,5 +1,10 @@
 # Raft Implementation Project
 
+## 作业要求
+1. 用Go或C++实现Raft共识协议，强烈建议花点时间自学Go语言（Go语言的RPC库比较好用），不想学的用C++实现也行。
+2. 本文档提供Go语言版本的实现过程参考，包括[环境配置](#环境配置)
+3. Raft实现包括4个模块Part2A: leader election，
+
 ## 环境配置
 
 ### 代码框架
