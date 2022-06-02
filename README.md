@@ -4,7 +4,7 @@
 
 ### 代码框架
 
-该project为东北大学硕士课程《分布式操作系统》课程设计题目，来源（[MIT分布式系统课程MIT 6.824的实验](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)），由[杨世蛟](https://github.com/ysj1173886760)同学整理
+该project为东北大学硕士课程《分布式操作系统》课程设计题目，来源[MIT分布式系统课程MIT 6.824的实验](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)，由[杨世蛟](https://github.com/ysj1173886760)同学整理
 
 通过github
 ```shell
