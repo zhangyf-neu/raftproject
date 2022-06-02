@@ -6,13 +6,13 @@
 3. Raft实现包括4个模块[Part2A: leader election](#part2a-leader-election)、[Part2B: log](#part2b-log)、[Part2C: persistence](#Part2C-persistence)、[Part2D: log compaction(optional)](#part2d-log-compactionoptional)，最后这个是可选的任务
 4. 提交内容：a.源代码，b.实现细节报告（包括实现过程和关键步骤截图等），以上内容打包按照“学号-姓名.zip”命名
 5. 提交日期：6月19日24时
-6. 提交地址：待定
+6. 提交地址：雨课堂
+
+该project为东北大学硕士课程《分布式操作系统》课程设计题目，来源[MIT分布式系统课程MIT 6.824的实验](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)，由[杨世蛟](https://github.com/ysj1173886760)同学整理
 
 ## 环境配置
 
 ### 代码框架
-
-该project为东北大学硕士课程《分布式操作系统》课程设计题目，来源[MIT分布式系统课程MIT 6.824的实验](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)，由[杨世蛟](https://github.com/ysj1173886760)同学整理
 
 通过github
 ```shell
