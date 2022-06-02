@@ -1,10 +1,10 @@
-# MIT6.824
+# Raft Implementation Project
 
 ## 环境配置
 
 ### 代码框架
 
-[原始链接](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)
+该project为东北大学硕士课程《分布式操作系统》课程设计题目，来源MIT分布式系统课程MIT 6.824的实验（[原始链接](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)），由[杨世蛟](https://github.com/ysj1173886760)同学整理
 
 通过github
 ```shell
